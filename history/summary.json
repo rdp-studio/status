@@ -4,19 +4,19 @@
     "url": "https://rdpoa.cn.utools.club",
     "icon": "https://favicons.githubusercontent.com/rdpoa.cn.utools.club",
     "slug": "rdp-studio-oa",
-    "status": "down",
-    "uptime": "94.83%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "94.83%",
-    "time": 1018,
-    "timeDay": 1018,
-    "timeWeek": 1018,
-    "timeMonth": 1018,
-    "timeYear": 1018,
+    "status": "up",
+    "uptime": "89.02%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "89.02%",
+    "time": 950,
+    "timeDay": 950,
+    "timeWeek": 950,
+    "timeMonth": 950,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2021-06-20": 19
+      "2021-06-20": 43
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rdpenc.cn.utools.club",
     "icon": "https://favicons.githubusercontent.com/rdpenc.cn.utools.club",
     "slug": "rdp-studio-enc",
-    "status": "down",
-    "uptime": "95.09%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "95.09%",
-    "time": 1098,
-    "timeDay": 1098,
-    "timeWeek": 1098,
-    "timeMonth": 1098,
-    "timeYear": 1098,
+    "status": "up",
+    "uptime": "89.27%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "89.27%",
+    "uptimeMonth": "89.27%",
+    "uptimeYear": "89.27%",
+    "time": 990,
+    "timeDay": 990,
+    "timeWeek": 990,
+    "timeMonth": 990,
+    "timeYear": 990,
     "dailyMinutesDown": {
-      "2021-06-20": 18
+      "2021-06-20": 42
     }
   }
 ]
