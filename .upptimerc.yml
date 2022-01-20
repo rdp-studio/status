@@ -39,3 +39,6 @@ commitMessages:
   commitAuthorEmail: "hello@rdpstudio.top"
 
 user-agent: rdp-studio
+
+i18n:
+  footer: This page is [open source]($REPO)
