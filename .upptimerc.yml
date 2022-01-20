@@ -7,9 +7,9 @@ sites:
     url: https://rdpoa.cn.utools.club
   - name: RDPStudio Enc 数据加解密服务
     url: https://rdpenc.cn.utools.club
-  - name: RDPStudio 官网
+  - name: RDPStudio OffSite 官网
     url: http://www3.rdpstudio.top:81
-  - name: RDPStudio 社区
+  - name: RDPStudio Commuinty 社区
     url: https://rdpstudioforum.flarum.cloud
   - name: FG 官网 (RDPStudio Hosted Sites)
     url: http://fg.rdpstudio.top:81
