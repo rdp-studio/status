@@ -35,8 +35,6 @@ commitMessages:
   summaryJson: ":card_file_box: Update status summary [skip ci] [rdpstatus]"
   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [rdpstatus]"
   graphsUpdate: ":bento: Update graphs [skip ci] [rdpstatus]"
-
-commitMessages:
   commitAuthorName: "RDPStudio Status Bot"
   commitAuthorEmail: "hello@rdpstudio.top"
 
