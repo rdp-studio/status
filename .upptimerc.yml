@@ -13,6 +13,8 @@ sites:
     url: http://www3.rdpstudio.top:81
   - name: RDPStudio Commuinty 社区
     url: https://rdpstudioforum.flarum.cloud
+  - name: Monterey社区 (Partner Site)
+    url: https://community2.rdpstudio.top
   - name: FG 官网 (RDPStudio Hosted Sites)
     url: http://fg.rdpstudio.top:81
 
