@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdpoa.cn.utools.club.ico",
     "slug": "rdp-studio-oa",
     "status": "down",
-    "uptime": "47.37%",
+    "uptime": "47.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "82.45%",
-    "time": 929,
-    "timeDay": 754,
-    "timeWeek": 870,
-    "timeMonth": 779,
-    "timeYear": 929,
+    "uptimeYear": "82.73%",
+    "time": 928,
+    "timeDay": 679,
+    "timeWeek": 879,
+    "timeMonth": 783,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2023-03-21": 66,
       "2023-01-25": 35,
@@ -87,8 +87,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -97,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdpenc.cn.utools.club.ico",
     "slug": "rdp-studio-enc",
     "status": "down",
-    "uptime": "47.36%",
+    "uptime": "47.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "82.44%",
-    "time": 984,
-    "timeDay": 983,
-    "timeWeek": 1256,
-    "timeMonth": 894,
-    "timeYear": 984,
+    "uptimeYear": "82.72%",
+    "time": 983,
+    "timeDay": 804,
+    "timeWeek": 1276,
+    "timeMonth": 900,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2023-03-21": 66,
       "2023-03-20": 18,
@@ -180,8 +179,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -198,10 +196,11 @@
     "time": 599,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 322,
-    "timeYear": 422,
+    "timeMonth": 311,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-03-23": 72,
+      "2023-03-24": 72,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -564,8 +563,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -574,7 +572,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www3.rdpstudio.top.ico",
     "slug": "rdp-studio-off-site",
     "status": "down",
-    "uptime": "7.86%",
+    "uptime": "7.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -585,7 +583,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 72,
+      "2023-03-24": 72,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -948,8 +947,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -958,18 +956,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdpstudioforum.flarum.cloud.ico",
     "slug": "rdp-studio-commuinty",
     "status": "down",
-    "uptime": "80.33%",
+    "uptime": "80.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "77.16%",
-    "time": 1717,
-    "timeDay": 434,
-    "timeWeek": 419,
-    "timeMonth": 384,
-    "timeYear": 1723,
+    "uptimeYear": "76.89%",
+    "time": 1714,
+    "timeDay": 417,
+    "timeWeek": 431,
+    "timeMonth": 387,
+    "timeYear": 1721,
     "dailyMinutesDown": {
-      "2023-03-23": 72,
+      "2023-03-24": 72,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1087,10 +1086,11 @@
     "time": 281,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 262,
+    "timeMonth": 233,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-03-23": 73,
+      "2023-03-24": 72,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1346,18 +1346,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.rdpstudio.top.ico",
     "slug": "fg-rdp-studio-hosted-sites",
     "status": "down",
-    "uptime": "21.18%",
+    "uptime": "21.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 825,
+    "time": 822,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 73,
+      "2023-03-24": 72,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1720,8 +1721,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   }
 ]
