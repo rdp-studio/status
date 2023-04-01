@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdpoa.cn.utools.club.ico",
     "slug": "rdp-studio-oa",
     "status": "down",
-    "uptime": "48.02%",
+    "uptime": "48.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "84.64%",
+    "uptimeYear": "84.92%",
     "time": 951,
-    "timeDay": 566,
-    "timeWeek": 2021,
+    "timeDay": 845,
+    "timeWeek": 2004,
     "timeMonth": 1052,
     "timeYear": 951,
     "dailyMinutesDown": {
@@ -79,8 +79,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -89,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdpenc.cn.utools.club.ico",
     "slug": "rdp-studio-enc",
     "status": "down",
-    "uptime": "48.01%",
+    "uptime": "48.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "84.63%",
+    "uptimeYear": "84.91%",
     "time": 1006,
-    "timeDay": 537,
-    "timeWeek": 1947,
-    "timeMonth": 1152,
+    "timeDay": 830,
+    "timeWeek": 2122,
+    "timeMonth": 1153,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2023-03-21": 66,
@@ -164,8 +163,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -183,9 +181,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 408,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2023-03-31": 75,
+      "2023-04-01": 73,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -548,8 +547,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -558,7 +556,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www3.rdpstudio.top.ico",
     "slug": "rdp-studio-off-site",
     "status": "down",
-    "uptime": "7.72%",
+    "uptime": "7.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -569,7 +567,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 75,
+      "2023-04-01": 73,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -932,8 +931,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -942,18 +940,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdpstudioforum.flarum.cloud.ico",
     "slug": "rdp-studio-commuinty",
     "status": "down",
-    "uptime": "78.85%",
+    "uptime": "78.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.97%",
-    "time": 1696,
-    "timeDay": 306,
-    "timeWeek": 397,
-    "timeMonth": 390,
-    "timeYear": 1699,
+    "uptimeYear": "74.69%",
+    "time": 1694,
+    "timeDay": 487,
+    "timeWeek": 406,
+    "timeMonth": 391,
+    "timeYear": 1697,
     "dailyMinutesDown": {
-      "2023-03-31": 75,
+      "2023-04-01": 73,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1082,7 +1081,8 @@
     "timeMonth": 0,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-03-31": 75,
+      "2023-04-01": 73,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1346,18 +1346,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.rdpstudio.top.ico",
     "slug": "fg-rdp-studio-hosted-sites",
     "status": "down",
-    "uptime": "20.84%",
+    "uptime": "20.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 795,
+    "time": 789,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 75,
+      "2023-04-01": 73,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1720,8 +1721,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   }
 ]
